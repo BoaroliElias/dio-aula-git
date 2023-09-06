@@ -1,0 +1,3 @@
+Conectando o repositório local com o repositório em nuvem do github
+
+git remote add origin git@github.com:BoaroliElias/AlgaWorks.git
